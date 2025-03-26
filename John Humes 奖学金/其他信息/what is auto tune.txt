@@ -1,0 +1,48 @@
+🎵 1. Auto-Tune in Music (Common Usage)
+This is the most well-known meaning, referring to audio processing technology used to correct vocal pitch. It was developed by Antares Audio Technologies.
+
+✅ Core underlying algorithms:
+Pitch Detection: Often uses algorithms like YIN, AMDF, Cepstrum, or FFT-based spectral analysis to detect the current pitch.
+
+Pitch Correction: Once pitch is detected, it is adjusted to the nearest musical note. Common techniques include:
+
+Time-domain stretching/compression
+
+Phase vocoder
+
+PSOLA (Pitch Synchronous Overlap and Add)
+
+🚀 Effects:
+It can subtly correct pitch for natural vocal enhancement
+
+Or produce robotic and synthetic effects (e.g., T-Pain style)
+
+🔍 2. "Auto-Tuning" in Research Papers (Non-Music Usage)
+In fields like control engineering, optimization, and computer science, “Auto-Tuning” often refers to:
+
+Automatically adjusting parameters to optimize a system’s performance.
+
+Examples:
+Tuning hyperparameters in machine learning models (e.g., learning rate, batch size)
+
+Adjusting compiler settings in high-performance computing
+
+Auto-tuning PID controllers in control systems
+
+Common fields:
+Deep Learning: AutoML, hyperparameter tuning
+
+HPC (High-Performance Computing): Compiler optimization
+
+Control Theory: Adaptive control systems
+
+✅ How to search more precisely?
+If you’re looking for music-related Auto-Tune, try searching:
+
+"Auto-Tune" + pitch correction
+
+"Pitch correction algorithm"
+
+"Real-time pitch shifting"
+
+If you see “Auto-Tuning” in a paper that’s unrelated to audio, it most likely refers to automated parameter optimization.

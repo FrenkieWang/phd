@@ -1,0 +1,42 @@
+1 - Making Voices The Gendering of Pitch Correction and The Auto-Tune Effect in Contemporary Pop Music
+https://www.researchgate.net/publication/335667997_Making_Voices_The_Gendering_of_Pitch_Correction_and_The_Auto-Tune_Effect_in_Contemporary_Pop_Music
+https://doi.org/10.1525/jpms.2019.312008
+
+2 - Auto-Tune as instrument: trap music's embrace of a repurposed technology
+https://www.cambridge.org/core/journals/popular-music/article/autotune-as-instrument-trap-musics-embrace-of-a-repurposed-technology/C5B160BE7E8AB29576E92CC7CD9D60B7
+https://doi.org/10.1017/S0261143024000369
+
+3 - A System for Tuning Instruments Using Recorded Music Instead of Theory-Based Frequency Presets
+https://direct.mit.edu/comj/article-abstract/36/3/43/94398/A-System-for-Tuning-Instruments-Using-Recorded
+https://doi.org/10.1162/COMJ_a_00128
+
+---------
+
+4 - Auto-tuning mother nature: Waves in music and water
+https://ieeexplore.ieee.org/abstract/document/6404781?casa_token=KJxJPp_dMB0AAAAA:J_IivnaWw_zeXYJWkkPVm5e5QssU2pyuDC-F_o5AXUgXB8SpzEf3vBtN5vHByh2_jHCpOBiO
+10.1109/OCEANS.2012.6404781
+
+5 - Deep Autotuner: A Pitch Correcting Network for Singing Performances
+https://ieeexplore.ieee.org/abstract/document/9054308?casa_token=QYBjuoKZXHcAAAAA:zPQsFktdi1iyWWoBNR84ST-1kWvQ3xLD5YyfJe47w-ofZQh5zjxvp1gKRpt45v6mh6sPDc97
+10.1109/ICASSP40776.2020.9054308
+
+6 - The oleaginous voice: Auto-Tune, linear predictive coding, and the security-petroleum complex
+10.1109/WASPAA58266.2023.10248127
+https://www.tandfonline.com/doi/full/10.1080/07341512.2024.2402580#abstract
+https://doi.org/10.1080/07341512.2024.2402580
+
+------------------
+
+7- Research on intelligent interactive music information based on visualization technology
+https://www.degruyter.com/document/doi/10.1515/jisys-2022-0016/html
+https://doi.org/10.1515/jisys-2022-0016
+
+8- Music dynamics visualization for music practice and education
+https://link.springer.com/article/10.1007/s11042-025-20637-0
+https://doi.org/10.1007/s11042-025-20637-0
+
+9 - Understanding the structure of musical compositions: Is visualization an effective approach?
+https://journals.sagepub.com/doi/abs/10.1177/1473871616655468?casa_token=I77PLiDtiIsAAAAA:0vbtJ2YnVpqbR53qoRndtI_8CdIPX87rJeSj8ByLsUEGSf0KWaaOTXpxrrWyZEYvNRwMFA9fG__8&casa_token=XGgy0mBk85cAAAAA:xmoLYZZpGAkjmVTQOTCaUqr_wo-KbDT781EXoHHByr1VXGU_1hmx5YcZQwYCl4Z84K-IVcHdh-69
+https://doi.org/10.1177/1473871616655468
+
+用英语简要说一下 这篇论文的研究内容 方法以及不足

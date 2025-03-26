@@ -1,0 +1,54 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{Research Proposal: Designing Interactive Visualization Tools for Key Transposition in Singing Process: Based on Auto-Tune Algorithm}
+\author{Zhoukan Wang}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+The advent of digital signal processing (DSP) has revolutionized the music industry, particularly with the development of tools like Auto-Tune. This research aims to design interactive visualization tools that assist singers in the key transposition process, leveraging the Auto-Tune algorithm. The goal is to enhance the singing experience by providing real-time visual feedback and improving pitch accuracy.
+
+\section{Literature Review}
+
+Several studies have explored the application of DSP in music \citep{hildebrand2019auto, smith2009real}. Auto-Tune, in particular, has been a subject of interest due to its impact on modern music production \citep{collins2012impact}. Interactive visualization tools have also been shown to aid in music education and performance \citep{brown2013visualizing, cook2013role}. This research will build on these foundations to create a novel tool for key transposition in singing.
+
+\section{Research Objectives}
+
+\begin{itemize}
+    \item To develop an interactive visualization tool that integrates with Auto-Tune for real-time key transposition.
+    \item To evaluate the effectiveness of the tool in improving pitch accuracy and overall singing performance.
+    \item To explore user experiences and feedback to refine the tool.
+\end{itemize}
+
+\section{Methodology}
+
+\subsection{Tool Development}
+The tool will be developed using Melodyne software, which incorporates modern DSP techniques and real-time pitch correction and transposition capabilities. The user interface will be designed to be intuitive and user-friendly \citep{johnson2017designing}.
+
+\subsection{Evaluation}
+The tool will be tested with a diverse group of music enthusiasts, including singers and other music lovers. The evaluation will involve deploying the software and collecting data through surveys and performance analysis. Participants will be asked to compare their singing performance before and after using the tool. The effectiveness of the tool will be assessed based on pitch accuracy, user satisfaction, and ease of use \citep{lee2018interactive}.
+
+\section{Expected Outcomes}
+
+\begin{itemize}
+    \item A functional prototype of the interactive visualization tool.
+    \item Improved pitch accuracy and singing performance among users.
+    \item Positive user feedback and suggestions for further improvements.
+\end{itemize}
+
+\section{References}
+
+\bibliographystyle{agsm}
+\bibliography{references}
+
+\end{document}

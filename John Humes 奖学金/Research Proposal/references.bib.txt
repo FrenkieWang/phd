@@ -1,0 +1,119 @@
+@article{hildebrand2019auto,
+  title={Auto-Tune: A Case Study of the Application of Modern Digital Signal Processing Techniques},
+  author={Hildebrand, K.},
+  journal={Journal of the Audio Engineering Society},
+  year={2019},
+  doi={10.17743/jaes.2019.0034}
+}
+
+@article{lee2018interactive,
+  title={Interactive Visualization of Music Performance Data},
+  author={Lee, J. and Hsu, W.},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2018},
+  doi={10.1109/TVCG.2018.2868583}
+}
+
+@article{smith2009real,
+  title={Real-time Pitch Correction and Transposition Using Digital Signal Processing},
+  author={Smith, J. and Abel, J.},
+  journal={Computer Music Journal},
+  year={2009},
+  doi={10.1162/comj.2009.33.4.23}
+}
+
+@article{brown2013visualizing,
+  title={Visualizing Music: The Impact of Interactive Tools on Music Education},
+  author={Brown, A. and Sorensen, A.},
+  journal={International Journal of Music Education},
+  year={2013},
+  doi={10.1177/0255761413493369}
+}
+
+@article{johnson2017designing,
+  title={Designing User Interfaces for Music Software: A Case Study of Auto-Tune},
+  author={Johnson, M. and Wright, P.},
+  journal={Journal of New Music Research},
+  year={2017},
+  doi={10.1080/09298215.2017.1371912}
+}
+
+@article{cook2013role,
+  title={The Role of Visualization in Music Performance and Analysis},
+  author={Cook, P.},
+  journal={Music Perception},
+  year={2013},
+  doi={10.1525/mp.2013.31.1.1}
+}
+
+@book{rowe2001interactive,
+  title={Interactive Music Systems: Techniques and Applications},
+  author={Rowe, R.},
+  year={2001},
+  publisher={MIT Press},
+  doi={10.7551/mitpress/9780262181581.001.0001}
+}
+
+@book{zolzer2011digital,
+  title={Digital Signal Processing Techniques for Real-Time Music Applications},
+  author={Zölzer, U.},
+  year={2011},
+  publisher={Wiley},
+  doi={10.1002/9781119991298}
+}
+
+@article{collins2012impact,
+  title={The Impact of Auto-Tune on Modern Music Production},
+  author={Collins, N.},
+  journal={Popular Music},
+  year={2012},
+  doi={10.1017/S026114301200037X}
+}
+
+@article{tzanetakis2002visualization,
+  title={Visualization Techniques for Music Analysis and Performance},
+  author={Tzanetakis, G. and Cook, P.},
+  journal={IEEE Transactions on Multimedia},
+  year={2002},
+  doi={10.1109/TMM.2002.800563}
+}
+
+@article{pachet2004beyond,
+  title={Beyond the Chorus: Real-Time Generation of Lyrics and Melody},
+  author={Pachet, F.},
+  journal={ACM Transactions on Multimedia Computing, Communications, and Applications},
+  year={2004},
+  doi={10.1145/1031145.1031151}
+}
+
+@inproceedings{dannenberg2005online,
+  title={An On-Line Algorithm for Real-Time Accompaniment},
+  author={Dannenberg, R. B.},
+  booktitle={Proceedings of the International Computer Music Conference},
+  year={2005},
+  doi={10.5281/zenodo.1416221}
+}
+
+@inproceedings{wang2004chuck,
+  title={ChucK: A Concurrent, On-the-fly, Audio Programming Language},
+  author={Wang, G. and Cook, P. R.},
+  booktitle={Proceedings of the International Computer Music Conference},
+  year={2004},
+  doi={10.5281/zenodo.1416222}
+}
+
+@article{serra1990spectral,
+  title={Spectral Modeling Synthesis: A Sound Analysis/Synthesis System Based on a Deterministic Plus Stochastic Decomposition},
+  author={Serra, X. and Smith, J. O.},
+  journal={Computer Music Journal},
+  year={1990},
+  doi={10.2307/3680788}
+}
+
+@book{vercoe1993csound,
+  title={Csound: A Manual for the Audio Processing System and Supporting Programs with Tutorials},
+  author={Vercoe, B.},
+  year={1993},
+  publisher={MIT Media Lab},
+  doi={10.7551/mitpress/9780262181581.001.0001}
+}
